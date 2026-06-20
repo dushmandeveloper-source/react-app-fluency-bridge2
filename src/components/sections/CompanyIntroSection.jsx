@@ -7,7 +7,7 @@ const COMPANY_INTRO_SEGMENTS = [
   },
   {
     text: 'We bridge the gap between regional potential and global success through our parent corporate infrastructure, managing two distinct, specialised operational branches:',
-    className: 'text-brand-accent glow-green',
+    className: 'text-[#0F6B54]',
   },
 ];
 
