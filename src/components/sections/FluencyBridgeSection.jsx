@@ -47,7 +47,7 @@ const FluencyBridgeSection = () => (
     <div className="relative z-20 max-w-lg mx-auto w-full flex flex-col bg-white/80 backdrop-blur-xl p-8 lg:p-10 rounded-3xl border border-white/60 shadow-[0_8px_32px_rgba(0,0,0,0.1)] mt-4">
       <h1 className="text-4xl xl:text-5xl 2xl:text-6xl font-extrabold text-brand-dark mb-4 tracking-tighter leading-[1.1]">
         <MotionText text="Fluency" delayOffset={100} /><br />
-        <MotionText text="Bridge." delayOffset={300} className="font-serif italic font-normal text-brand-accent glow-green animate-blink-soft" />
+        <MotionText text="Bridge." delayOffset={300} className="font-serif italic font-normal text-[#0F6B54] glow-green animate-blink-soft" />
       </h1>
 
       <p className="text-base xl:text-lg text-gray-700 leading-relaxed mb-8 font-medium opacity-0 animate-fade-in-up delay-400">
